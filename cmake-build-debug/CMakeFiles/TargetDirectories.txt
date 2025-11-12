@@ -1,0 +1,3 @@
+C:/Data_Angger/Kuliah Smt 1/Algoritma & Dasar Pemrograman/Clion/Minggu8/StudentRecord/cmake-build-debug/CMakeFiles/StudentRecord.dir
+C:/Data_Angger/Kuliah Smt 1/Algoritma & Dasar Pemrograman/Clion/Minggu8/StudentRecord/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Data_Angger/Kuliah Smt 1/Algoritma & Dasar Pemrograman/Clion/Minggu8/StudentRecord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
